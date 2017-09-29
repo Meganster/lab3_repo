@@ -1,0 +1,11 @@
+'#' Ignore objects and archives.
+
+*.[pyc]
+
+.idea/
+
+.target/
+
+.out/
+
+.DS_Store
